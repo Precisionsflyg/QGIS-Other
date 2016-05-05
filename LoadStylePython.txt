@@ -1,0 +1,1 @@
+iface.activeLayer().loadNamedStyle('C:\Users\Riksnav\Documents\GIS DataBase\Kartstilar\Coursepoints.qml')
